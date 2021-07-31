@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = calebjohnson@outlook.com
+	name = Caleb Johnson
